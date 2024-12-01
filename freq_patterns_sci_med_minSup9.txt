@@ -8572,11 +8572,8 @@ table:12
 risks:12
 steroid:12
 eau:12
-<<<<<<< HEAD
-=======
 eau	wisconsin:11
 claire	eau	wisconsin:11
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8605,11 +8602,6 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
-<<<<<<< HEAD
-eau	wisconsin:11
-claire	eau	wisconsin:11
-=======
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10

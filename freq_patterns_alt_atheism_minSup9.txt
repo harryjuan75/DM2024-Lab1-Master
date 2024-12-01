@@ -3317,28 +3317,18 @@ ignorance:18
 1993apr15:18
 require:18
 healta:18
-<<<<<<< HEAD
-=======
 healta	gmt:10
 healta	gmt	college:9
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 healta	date:10
 healta	date	gmt:9
 college	healta	date	gmt:9
 healta	date	college:10
-<<<<<<< HEAD
-healta	gmt:10
-healta	gmt	college:9
 healta	college:12
 healy:18
 healy	gmt:10
 healy	gmt	college:9
 healta	healy	gmt	college:9
 healy	gmt	healta:10
-=======
-healta	college:12
-healy:18
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 healy	date:10
 healy	date	gmt:9
 healta	healy	date	gmt:9
@@ -3347,13 +3337,6 @@ healta	college	healy	date	gmt:9
 healy	date	healta:10
 healy	date	college:10
 healta	healy	date	college:10
-<<<<<<< HEAD
-=======
-healy	gmt:10
-healy	gmt	college:9
-healta	healy	gmt	college:9
-healy	gmt	healta:10
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 healy	college:12
 healta	healy	college:12
 healy	healta:18
@@ -3460,13 +3443,8 @@ entire	dan:9
 earlier:21
 dan:21
 lie:21
-<<<<<<< HEAD
-lie	entire:9
-lie	alone:9
-=======
 lie	alone:9
 lie	entire:9
->>>>>>> 12669f3c3fba1fc7e93b857e0cc74d7b70a0ab89
 lie	wasn:10
 respect:21
 beaverton:21
